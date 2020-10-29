@@ -15,7 +15,6 @@
         }
     ],
     "license": "MIT",
-    "minimum-stability": "stable",
     "require": {
         "overtrue/wechat": "~4.0"
     },
