@@ -1,0 +1,21 @@
+{
+    "name": "shijun/wechat",
+    "description": "WechatConfigProxy",
+    "type": "www.sin.com",
+    "authors": [
+        {
+            "name": "Sin",
+            "email": "98624425@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "overtrue/wechat": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "common\\lib\\": "src/wechat/"
+        }
+    }
+}
