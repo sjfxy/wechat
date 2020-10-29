@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "common\\lib\\": "src/wechat/"
+            "common\\lib\\": "src/"
         }
     }
 }
