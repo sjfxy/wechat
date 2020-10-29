@@ -1,7 +1,13 @@
 {
     "name": "shijun/wechat",
     "description": "WechatConfigProxy",
-    "type": "www.sin.com",
+    "keywords": [
+        "easywechat",
+        "wechat",
+        "weixin",
+        "weixin-sdk",
+        "sdk"
+    ],
     "authors": [
         {
             "name": "Sin",
